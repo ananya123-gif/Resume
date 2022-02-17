@@ -1,2 +1,1 @@
-#Want to know about me😜... Check Here
-##So, This is my Resume which is based on HTML only.
+# Want to know About me, just check here - It is my Resume based on HTML only. 
